@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyWebAPINet6.props" />
+</Project>
